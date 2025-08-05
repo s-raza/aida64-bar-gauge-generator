@@ -80,3 +80,13 @@ Generate bar images with the required arguments
 python -m aida64-bar-gauge-generator --vertical --file_prefix "processor_utilization" --target_screen_width 1024 --target_screen_height 768 --base_bar_height 20 --base_total_gauge_width 250
 ✅ Done! 16 bar images saved to: 'output/vertical_processor_utilization_20x250'
 ```
+
+Bar images generated
+
+<img width="1236" height="412" alt="image" src="https://github.com/user-attachments/assets/670bb0ee-abdf-4108-b645-e5da93126025" />
+
+Use in AIDA 64
+
+<img width="1838" height="793" alt="image" src="https://github.com/user-attachments/assets/ada4a09b-0047-4ff3-bf81-dab5b411da5d" />
+
+
