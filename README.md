@@ -10,6 +10,14 @@
 
 ![AIDA64-sensorpanel](https://github.com/user-attachments/assets/048ed4fa-0330-4820-a60d-d0dcd977384f)
 
+<ins>**800x480-simple-panel-with-bars.sensorpanel**</ins>
+
+
+
+![AIDA64-sensorpanel2](https://github.com/user-attachments/assets/5a994abd-5ebf-4322-a8ca-0076ab26f49b)
+
+<ins>**800x480-simple-panel-with-bars.spzip**</ins>
+
 ## Why?
 Bevause some of us hate to use Photoshop for making simple bar gauge images!
 
