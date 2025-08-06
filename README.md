@@ -10,6 +10,13 @@
 
 ![AIDA64-sensorpanel](https://github.com/user-attachments/assets/048ed4fa-0330-4820-a60d-d0dcd977384f)
 
+## Why?
+Bevause some of us hate to use Photoshop for making simple bar gauge images!
+
+AIDA64 sensor panel has an option to set custom gauges, however we need to provide it with 16 (0-15) images for the various stages of prgoression of the guage.
+
+This script generates these images for a simple bar gauge, no Photoshop required, generate and ready to use.
+
 ## Usage
 
 Clone the Project
