@@ -19,7 +19,7 @@
 <ins>**800x480-simple-panel-with-bars.spzip**</ins>
 
 ## Why?
-Bevause some of us hate to use Photoshop for making simple bar gauge images!
+Because some of us hate to use Photoshop for making simple bar gauge images!
 
 AIDA64 sensor panel has an option to set custom gauges, however we need to provide it with 16 (0-15) images for the various stages of prgoression of the guage.
 
