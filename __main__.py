@@ -159,7 +159,7 @@ def main():
             else:
                 img = img.crop((0, 0, img.width - 1, img.height))
 
-        filename = f"{state:02}_{args.file_prefix}{args.file_ext}"
+        filename = f"{state:02}_{args.file_prefix}_n{args.bar_count}{args.file_ext}"
         img.save(output_dir / filename)
 
     print(f"✅ Done! {args.bar_count + 1} bar images saved to: '{output_dir}'")
